@@ -1,0 +1,20 @@
+{
+    "namen": [
+        {
+            "id": 1,
+            "naam": "Nina"
+        },
+        {
+            "id": 2,
+            "naam": "Froukje"
+        },
+        {
+            "id": 3,
+            "naam": "Alexander"
+        },
+        {
+            "id": 4,
+            "naam": "Robin"
+        }
+    ]
+}
